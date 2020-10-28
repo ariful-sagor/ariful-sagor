@@ -48,7 +48,16 @@
 
 
 
-
+[programming]: https://www.programming-hero.com/
+[website]: https://manikroy.netlify.app/
+[twitter]: https://manikroy.netlify.app/
+[youtube]:  https://manikroy.netlify.app/
+[instagram]: https://www.instagram.com/manikroy_89/
+[linkedin]: https://www.linkedin.com/in/manik-roy
+[webdevplaylist]: https://manikroy.netlify.app/
+[jsplaylist]: https://manikroy.netlify.app/
+[cssplaylist]: https://manikroy.netlify.app/
+[reactplaylist]: https://manikroy.netlify.app/
 
 
 
