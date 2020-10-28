@@ -89,7 +89,7 @@ React.js, Node.js, Express.js,firebase ,MongoDB, Bootstrap4, css , html
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="Israfil's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Israfil-cse&show_icons=true&hide_border=true" />
+  <img align="left" alt="Ariful's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=ariful-sagor&show_icons=true&hide_border=true" />
 
 </details>
 
