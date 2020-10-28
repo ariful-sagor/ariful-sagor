@@ -40,35 +40,8 @@
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][]
 
 
-<br />
-<br />
-
----
 
 
-### 📕 Latest full-stack project
-
-<!-- BLOG-POST-LIST:START -->
-#### [Creative agency](https://creative-agency-b0aab.web.app/)
-- A single-page web app with a dashboard where people can select a service order.if you want to Check order and review,click the Service list and review. admin can add service if he wants.
-
-#####  Technology used :
-React.js, Node.js, Express.js,firebase ,MongoDB, Bootstrap4, css , html
-
-#### [Doctor portal](https://doctors-portal-a45b5.web.app/)
-- A single-page web app with a dashboard where people can click the appointment buttonand pick the date and time and fix an appointment. A doctor can review his   appointments and prescribe medicine to a Patient from his dashboard.
-
-
-##### Technology used : 
-React.js, Node.js, Express.js,firebase , MongoDB, Bootstrap4, css , html
-
-#### [Voulenteer network](https://volunteer-network-8dcbb.web.app/)
-- A single-page web app where people can select a category and if he wants to help.
-
-##### Technology used :
-React.js, Node.js, Express.js,firebase ,MongoDB, Bootstrap4, css , html
-
-➡️ [more project comming soon...]()
 
 
 
