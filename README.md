@@ -6,8 +6,7 @@
 
 
 - 🌱 I’m currently learning web programming 🤣
-- 👯 I’m looking to collaborate with other web learner
-- 🥅 2020 Goals: Contribute more to Open Source projects, Learn Redux and Node
+- 🥅 2020 Goals: Contribute more to Open Source projects, Learn Redux and Node JS
 - ⚡ Fun fact: I love to watch Sci-fi movies and travel different places 😜
 
 <br />
