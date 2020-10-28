@@ -28,9 +28,9 @@
 
 
 
-<img width="550" alt="Manik Roy Github Stats"  src="https://github-readme-stats.vercel.app/api?username=ariful-sagor&show_icons=true"/>
+<img width="550" alt="Ariful Islam Github Stats"  src="https://github-readme-stats.vercel.app/api?username=ariful-sagor&show_icons=true"/>
 
-[![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=manik-roy&card_width=550)](https://github.com/manik-roy/ariful-sagor)
+[![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=ariful-sagor&card_width=550)](https://github.com/ariful-sagor/ariful-sagor)
 
 
 
@@ -49,13 +49,6 @@
 <br />
 
 
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="Ariful's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=ariful-sagor&show_icons=true&hide_border=true" />
-
-</details>
 
 [linkedin]: https://www.linkedin.com/in/md-ariful-islam1999/
 [Email]: ariful.islam200069@gmail.com
