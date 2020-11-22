@@ -20,7 +20,7 @@
 <br />
 <br />
 
-### 📑 My resume: 🖨 [Resume pdf](https://drive.google.com/file/d/1EaoW_gNT--gkFN-TOndKi-XfLMvKBr2x/view?usp=sharing)
+### 📑 My resume: 🖨 [Resume pdf](https://drive.google.com/file/d/1YPspV-_X0ULqIDXM7f65W2JfQmGShCnr/view?usp=sharing)
 
 <br />
 <br />
